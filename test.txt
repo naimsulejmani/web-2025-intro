@@ -1,1 +1,5 @@
 lorem ipsum la amanet
+
+tekst palidhje!!!
+
+version 1.0
